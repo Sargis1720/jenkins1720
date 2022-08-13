@@ -1,0 +1,18 @@
+117775178100	r-05b4ce751166c8370
+INSTANCES	0	x86_64	01a04699-fd97-44be-b26e-5940dbc9e44b	False	True	xen	ami-052efd3df9dad4825	i-05f7749bd06ba9e23	t2.micro	MyKeyPair	2022-07-27T16:07:11+00:00	ip-10-0-193-91.ec2.internal	10.0.193.91		/dev/sda1	ebs	True		subnet-0ad97a61d7cf3c1fb	hvm	vpc-02b6889c8e21ef6a2
+CAPACITYRESERVATIONSPECIFICATION	open
+CPUOPTIONS	1	1
+ENCLAVEOPTIONS	False
+MAINTENANCEOPTIONS	default
+METADATAOPTIONS	enabled	disabled	1	optional	disabled	pending
+MONITORING	disabled
+NETWORKINTERFACES		interface	02:8f:44:d8:85:2b	eni-0820e0500015e5497	117775178100	10.0.193.91	True	in-use	subnet-0ad97a61d7cf3c1fb	vpc-02b6889c8e21ef6a2
+ATTACHMENT	2022-07-27T16:07:11+00:00	eni-attach-0ec111a13c23e9311	True	0	0	attaching
+GROUPS	sg-0abbc946de0e22c8f	SSHAccess
+PRIVATEIPADDRESSES	True	10.0.193.91
+PLACEMENT	us-east-1d		default
+PRIVATEDNSNAMEOPTIONS	False	False	ip-name
+SECURITYGROUPS	sg-0abbc946de0e22c8f	SSHAccess
+STATE	0	pending
+STATEREASON	pending	pending
+TAGS	Name	instance
